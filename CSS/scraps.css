@@ -1,0 +1,50 @@
+
+#mainheading{
+	color: red;
+}
+
+#subheading{
+	color: aqua;
+}
+
+.male{
+	color: blue;
+}
+
+.female{
+	color: rgb(241, 0, 133);
+}
+
+	
+div{
+min-height: 100vh;
+color: rgb(0, 255, 42);
+font-size: 60px;
+display: felx;
+justify-content: center;
+align-items: center;
+text-align: center;
+
+}
+.big-image{
+	background: url("Img./fishes.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+.small-image{
+	background: url("Img./dogs.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.folder-image{
+	background: url("Img./horses.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;  
+}
